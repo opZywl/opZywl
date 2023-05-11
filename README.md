@@ -1,16 +1,24 @@
-### Hi there 👋
+## Sup Nerds 
 
-<!--
-**opZywl/opZywl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a self-taught developer.   
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=opZywl&data=followers,repositories,stars)](https://github.com/Jurredr/github-widgetbox)
 
-Here are some ideas to get you started:
+<details>
+<summary><b>Skills</b></summary>
+<ul>
+ <li>Java</li>
+ <li>Kotlin</li>
+ <li>Python3</li>
+ <li>C</li>
+ <li>JVM Bytecode</li>
+</ul>
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+<summary><b>Learning queue</b></summary>
+<ul>
+ <li>Rust</li>
+ <li>Flutter/Dart</li>
+ <li>UI Design</li>
+</ul>
+</details>
