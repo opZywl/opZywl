@@ -8,8 +8,14 @@ Just a self-taught developer.
 <ul>
  <li>Java</li>
  <li>Kotlin</li>
- <li>Python3</li>
- <li>C</li>
+ <li>Python</li>
+ <li>PHP</li>
+ <li>TypeScript</li>
+ <li>Spring Boot</li>
+ <li>Gradle</li>
+ <li>Docker</li>
+ <li>MongoDB</li>
+ <li>MySQL</li>
  <li>JVM Bytecode</li>
 </ul>
 </details>
@@ -18,7 +24,6 @@ Just a self-taught developer.
 <summary><b>Learning queue</b></summary>
 <ul>
  <li>Rust</li>
- <li>Flutter/Dart</li>
  <li>UI Design</li>
 </ul>
 </details>
