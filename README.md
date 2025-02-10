@@ -9,7 +9,11 @@ Just a self-taught developer.
  <li>Java</li>
  <li>Kotlin</li>
  <li>Python</li>
+ <li>HTML</li>
+ <li>CSS</li>
+ <li>TailWind CSS</li>
  <li>PHP</li>
+ <li>JavaScript</li>
  <li>TypeScript</li>
  <li>Spring Boot</li>
  <li>Gradle</li>
