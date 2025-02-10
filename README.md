@@ -1,6 +1,6 @@
 ## Sup Nerds 
 
-Just a self-taught developer.   
+Computer Enthusiast.
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=opZywl&data=followers,repositories,stars&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
 <details>
