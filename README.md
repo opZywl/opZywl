@@ -12,6 +12,8 @@ Computer Enthusiast.
  <li>TypeScript</li>
  <li>React</li>
  <li>Next.js</li>
+ <li>Angular</li>
+ <li>jQuery</li>
  <li>Tailwind CSS</li>
  <li>Shadcn</li>
  <li>SCSS</li>
@@ -42,6 +44,7 @@ Computer Enthusiast.
 <summary><b>Database & Services</b></summary>
 <ul>
  <li>MongoDB</li>
+ <li>Supabase</li>
  <li>MySQL</li>
  <li>PostgreSQL</li>
  <li>Docker</li>
@@ -56,6 +59,7 @@ Computer Enthusiast.
 <summary><b>Graphics</b></summary>
 <ul>
  <li>Three.js</li>
+ <li>TouchDesigner</li>
  <li>WebGL</li>
  <li>OpenGL</li>
  <li>GLSL</li>
